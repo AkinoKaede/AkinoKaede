@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I am AkinoKaede, a student majoring in data science. I love freedom and free software.
+Hi, I am AkinoKaede, a student majoring in Data Science. I love freedom and free software.
 
 ### Personality
 
