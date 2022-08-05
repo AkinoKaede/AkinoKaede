@@ -25,7 +25,6 @@ I can speak Chinese and English. Although English is not my first language, I am
 PGP Key: [0x87A203D7203F0A5E6A67EC87B518830D680DFFC6](https://keys.openpgp.org/vks/v1/by-fingerprint/87A203D7203F0A5E6A67EC87B518830D680DFFC6)  
 Homepage: <https://akinokae.de>  
 Blog: <https://blog.akinokae.de>  
-Twitter: [@AkinoKaedeChan](https://twitter.com/AkinoKaedeChan)  
 
 ## Donate Me
 
