@@ -13,10 +13,16 @@ PGP: [0x87A203D7203F0A5E6A67EC87B518830D680DFFC6](https://keys.openpgp.org/vks/v
 
 Your donation will help me to continue to contribute to free software communities.
 
+### Membership Platforms
+
+| Platform |                     Account                      |
+| :------: | :----------------------------------------------: |
+| Patreon  | [AkinoKaede](https://www.patreon.com/AkinoKaede) |
+
 ### Cryptocurrencies
 
 | Network  |                   Token                    |
 | :------: | :----------------------------------------: |
-| Bitcoin  | bc1qg36la498jdns4gm8v632nfpszsefflddxhl5sw |
+| Bitcoin  |     37BsaaUJd45Dje3cdDtkof7hc6yn5767yZ     |
 | Ethereum | 0x5DCeF193c86108bC5DE9bC69B6eB640ee03C7f55 |
 |   TRON   |     TGAHFNCJQEMJEerk78WpmQvDuK3JKEMNrF     |
