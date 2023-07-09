@@ -6,7 +6,7 @@
 - Developer @ [V2Fly](https://github.com/v2fly)
   - *Developer since 2022*
   - *Contributor since 2021*
-- Go, Java, Python
+- Go, Java, Kotlin, Python
   - *Other languages: Rust, PHP, Common Lisp and etc.*
 
 ## Contact
