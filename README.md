@@ -7,7 +7,7 @@
   - *Developer since 2022*
   - *Contributor since 2021*
 - Go, Java, Kotlin, Python
-  - *Other languages: Rust, PHP, Common Lisp and etc.*
+  - *Other languages: Rust, PHP and etc.*
 
 ## Contact
 
