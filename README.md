@@ -1,7 +1,11 @@
 # 秋のかえで
 ## Sponsors
 
-![Sponsors](https://raw.githubusercontent.com/AkinoKaede/sponsors/main/sponsors.svg)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/AkinoKaede/sponsors/main/sponsors.svg">
+    <img src="https://raw.githubusercontent.com/AkinoKaede/sponsors/main/sponsors.wide.svg" />
+  </a>
+</p>
 
 ## About
 
