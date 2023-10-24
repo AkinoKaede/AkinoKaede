@@ -9,10 +9,8 @@
 
 ## About
 
-- Student
-- Developer @ [V2Fly](https://github.com/v2fly)
-  - *Developer since 2022*
-  - *Contributor since 2021*
+- Undergraduate Student majoring in Data Science
+- (Previous) Developer @ [V2Fly](https://github.com/v2fly)
 - Go, Java, Kotlin, Python
   - *Other languages: Rust, PHP and etc.*
 
