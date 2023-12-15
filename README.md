@@ -1,4 +1,4 @@
-# 秋のかえで
+# 秋野かえで
 ## Sponsors
 
 <p align="center">
