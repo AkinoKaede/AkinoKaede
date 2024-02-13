@@ -1,12 +1,12 @@
 # Donate
 
-***Your donation will help me to continue to contribute to free software communities.***
+***Your donation will help me continue to contribute to free software communities.***
 
-[Github Sponsors](https://github.com/sponsors/AkinoKaede) supports many card brands, although not explicitly stated, most China UnionPay cards issued by Chinese banks will refuse payment.
+[Github Sponsors](https://github.com/sponsors/AkinoKaede) is recommended because it does not charge any extra fees.
 
-[Patreon](https://www.patreon.com/AkinoKaede) supports pay with cards and PayPal.
+[Patreon](https://www.patreon.com/AkinoKaede) supports payments via PayPal, which is not supported by Github Sponsors.
 
-Cryptocurrencies is the best way to donate, it is anonymous and secure.
+Cryptocurrencies are the preferred method of donation due to their anonymity and security.
 
 ## Blockchain Addresses
 
