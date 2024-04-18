@@ -16,4 +16,4 @@ My ENS domain is `akinokaede.eth`.
 | :------: | :----------------------------------------: |
 | Ethereum | 0x5DCeF193c86108bC5DE9bC69B6eB640ee03C7f55 |
 |   TRON   |     TGAHFNCJQEMJEerk78WpmQvDuK3JKEMNrF     |
-| Bitcoin  |     37BsaaUJd45Dje3cdDtkof7hc6yn5767yZ     |
+| Bitcoin  | bc1qg36la498jdns4gm8v632nfpszsefflddxhl5sw |
