@@ -9,9 +9,10 @@
 
 ## About
 
-- Undergraduate Student majoring in Data Science
-- Go, Java, Kotlin, Python
-  - *Other languages: Rust, PHP and etc.*
+- Undergraduate Student majoring in Data Science.
+- Free Software Enthusiast.
+- Fully Experience in Computer Networking, Interested in Operating Systems.
+- Write Code in Go, Rust, Java, Python and etc.
 
 ## [Contact](CONTACT.md)
 
