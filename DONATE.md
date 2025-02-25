@@ -12,8 +12,9 @@ Cryptocurrencies are the preferred method of donation due to their anonymity and
 
 My ENS domain is `akinokaede.eth`.
 
-| Network  |                  Address                   |
-| :------: | :----------------------------------------: |
-| Ethereum | 0x5DCeF193c86108bC5DE9bC69B6eB640ee03C7f55 |
-|   TRON   |     TGAHFNCJQEMJEerk78WpmQvDuK3JKEMNrF     |
-| Bitcoin  | bc1qg36la498jdns4gm8v632nfpszsefflddxhl5sw |
+| Network  |                   Address                    |
+| :------: | :------------------------------------------: |
+| Bitcoin  |  bc1qg36la498jdns4gm8v632nfpszsefflddxhl5sw  |
+| Ethereum |  0x5DCeF193c86108bC5DE9bC69B6eB640ee03C7f55  |
+|  Solana  | A3eKZz1iRQHRLBCX5VccYHLXgNUGTeigNi3nXq3XJHDr |
+|   TRON   |      TGAHFNCJQEMJEerk78WpmQvDuK3JKEMNrF      |
