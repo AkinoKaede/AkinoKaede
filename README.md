@@ -1,4 +1,4 @@
-# 秋野かえで
+# 秋野かえで (Kaede Akino)
 ## Sponsors
 
 <p align="center">
@@ -9,8 +9,7 @@
 
 ## About
 
-- Undergraduate Student majoring in Data Science (Expected to receive Bachelor of Engineering degree at June 2026).
-- Free Software Enthusiast.
+- Undergraduate Student majoring in Data Science.
 - Interested in Computer Networking, Distributed Systems and Operating Systems.
 - Write Code in Go, Rust, Java, Python and etc.
 
