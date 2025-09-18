@@ -1,7 +1,5 @@
 # Donate
 
-***Your donation will help me continue to contribute to free software communities.***
-
 [Github Sponsors](https://github.com/sponsors/AkinoKaede) is recommended because it does not charge any extra fees.
 
 [Patreon](https://www.patreon.com/AkinoKaede) supports payments via PayPal, which is not supported by Github Sponsors.
