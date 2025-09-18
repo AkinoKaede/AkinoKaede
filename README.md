@@ -14,5 +14,3 @@
 - Write Code in Go, Rust, Java, Python and etc.
 
 ## [Contact](CONTACT.md)
-
-## [Donate](DONATE.md)
