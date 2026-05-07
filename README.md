@@ -9,7 +9,6 @@
 
 ## About
 
-- Postgraduate Student majoring in Computer Science.
 - Interested in Computer Networking, Distributed Systems and Operating Systems.
 - Write Code in Go, Rust, Java, Python and etc.
 
