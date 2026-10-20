@@ -16,7 +16,7 @@
 
 ### Personal Projects
 
-- [Termind](https://termind.akinokaede.com): AI-driven remote workspace for Mac, iPhone, and iPad.
+- [Termind](https://github.com/AkinoKaede/Termind): AI-driven remote workspace for Mac, iPhone, and iPad.
 - [AgentKit](https://github.com/AkinoKaede/AgentKit): A tool-calling agent runtime for Swift apps.
 - [Asport](https://github.com/AkinoKaede/asport): A quick and secure reverse tunnel based on QUIC.
 
